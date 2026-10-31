@@ -1,0 +1,69 @@
+{
+  "model": "sherpa-onnx-streaming-zipformer-zh-int8-2025-06-30",
+  "load_ms": 5773.5,
+  "sample_seconds": 5.4,
+  "speech_end_seconds": 5.3,
+  "runs": [
+    {
+      "run": 1,
+      "first_text_ms": 818.0,
+      "speech_end_to_final_ms": 156.2,
+      "audio_end_to_final_ms": 56.2,
+      "final_text": "YCODIN项目正在测试蓝牙麦克风和微信输入法",
+      "changes": [
+        {
+          "t_ms": 818.0,
+          "text": "Y"
+        },
+        {
+          "t_ms": 1141.7,
+          "text": "YCOD"
+        },
+        {
+          "t_ms": 1458.3,
+          "text": "YCODIN"
+        },
+        {
+          "t_ms": 1778.1,
+          "text": "YCODIN项目"
+        },
+        {
+          "t_ms": 2414.9,
+          "text": "YCODIN项目正在"
+        },
+        {
+          "t_ms": 2742.9,
+          "text": "YCODIN项目正在测试"
+        },
+        {
+          "t_ms": 3377.7,
+          "text": "YCODIN项目正在测试蓝牙"
+        },
+        {
+          "t_ms": 3702.7,
+          "text": "YCODIN项目正在测试蓝牙麦"
+        },
+        {
+          "t_ms": 4018.3,
+          "text": "YCODIN项目正在测试蓝牙麦克风"
+        },
+        {
+          "t_ms": 4364.1,
+          "text": "YCODIN项目正在测试蓝牙麦克风和"
+        },
+        {
+          "t_ms": 4661.2,
+          "text": "YCODIN项目正在测试蓝牙麦克风和微"
+        },
+        {
+          "t_ms": 4974.2,
+          "text": "YCODIN项目正在测试蓝牙麦克风和微信"
+        },
+        {
+          "t_ms": 5298.2,
+          "text": "YCODIN项目正在测试蓝牙麦克风和微信输入"
+        }
+      ]
+    }
+  ]
+}

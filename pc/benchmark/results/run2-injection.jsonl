@@ -1,0 +1,6 @@
+{"name": "hotkey_press_start", "t_ns": 1791574165725211700, "detail": ""}
+{"name": "hotkey_pressed", "t_ns": 1791574165728042000, "detail": ""}
+{"name": "audio_injection_start", "t_ns": 1791574165818557400, "detail": ""}
+{"name": "last_speech_sound_estimated", "t_ns": 1791574169440557400, "detail": "last voiced WAV frame plus VB-CABLE playback latency"}
+{"name": "audio_injection_end", "t_ns": 1791574169518616800, "detail": ""}
+{"name": "hotkey_released", "t_ns": 1791574169622764700, "detail": ""}

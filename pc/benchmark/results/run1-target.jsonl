@@ -1,0 +1,7 @@
+﻿{"detail":"","t_ns":1791574125120000000,"name":"target_activated"}
+{"detail":"hwnd=4788082","t_ns":1791574125256000000,"name":"target_ready"}
+{"detail":"pid=2700","t_ns":1791574126845000000,"name":"injection_process_started"}
+{"detail":"code=","t_ns":1791574132338000000,"name":"injection_process_exited"}
+{"detail":"今天我们测试语音输入的响应速度","t_ns":1791574133913000000,"name":"text_changed"}
+{"detail":"","t_ns":1791574137378000000,"name":"target_deactivated"}
+{"detail":"","t_ns":1791574137398000000,"name":"target_closed"}

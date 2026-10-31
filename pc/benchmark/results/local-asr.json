@@ -1,0 +1,71 @@
+{
+  "model": "sherpa-onnx-streaming-zipformer-small-bilingual-zh-en-2023-02-16",
+  "load_ms": 1641.0,
+  "sample_seconds": 3.7,
+  "speech_end_seconds": 3.6,
+  "runs": [
+    {
+      "run": 1,
+      "first_text_ms": 436.3,
+      "speech_end_to_final_ms": 80.4,
+      "audio_end_to_final_ms": -19.6,
+      "final_text": "今天语",
+      "changes": [
+        {
+          "t_ms": 436.3,
+          "text": "今"
+        },
+        {
+          "t_ms": 773.1,
+          "text": "今天"
+        },
+        {
+          "t_ms": 2012.8,
+          "text": "今天语"
+        }
+      ]
+    },
+    {
+      "run": 2,
+      "first_text_ms": 414.7,
+      "speech_end_to_final_ms": 80.5,
+      "audio_end_to_final_ms": -19.5,
+      "final_text": "今天语",
+      "changes": [
+        {
+          "t_ms": 414.7,
+          "text": "今"
+        },
+        {
+          "t_ms": 771.8,
+          "text": "今天"
+        },
+        {
+          "t_ms": 2025.8,
+          "text": "今天语"
+        }
+      ]
+    },
+    {
+      "run": 3,
+      "first_text_ms": 412.3,
+      "speech_end_to_final_ms": 80.5,
+      "audio_end_to_final_ms": -19.5,
+      "final_text": "今天语",
+      "changes": [
+        {
+          "t_ms": 412.3,
+          "text": "今"
+        },
+        {
+          "t_ms": 733.5,
+          "text": "今天"
+        },
+        {
+          "t_ms": 2041.0,
+          "text": "今天语"
+        }
+      ]
+    }
+  ]
+}

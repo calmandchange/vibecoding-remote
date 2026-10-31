@@ -1,0 +1,4 @@
+pyserial>=3.5,<4
+numpy>=2,<3
+sherpa-onnx==1.13.8
+sherpa-onnx-bin==1.13.8

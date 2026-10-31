@@ -1,0 +1,65 @@
+{
+  "audio_file": "C:\\Users\\17350\\Documents\\ChatGPT\\vibecoding\\pc\\benchmark\\speech-test.wav",
+  "phrase": "今天我们测试语音输入的响应速度。",
+  "wechat_pids": [
+    3564,
+    8608,
+    14972,
+    20088,
+    27320,
+    31676,
+    36596,
+    44308,
+    45164
+  ],
+  "initial_windows": {},
+  "events": [
+    {
+      "name": "foreground_before_hotkey",
+      "t_ms": 2415.5,
+      "detail": "hwnd=4658228, pid=23020, class=TkTopLevel, title=语音输入延迟测试（独立输入框）"
+    },
+    {
+      "name": "hotkey_press_start",
+      "t_ms": 2415.5,
+      "detail": ""
+    },
+    {
+      "name": "hotkey_pressed",
+      "t_ms": 2417.6,
+      "detail": ""
+    },
+    {
+      "name": "foreground_after_hotkey",
+      "t_ms": 2508.2,
+      "detail": "hwnd=4658228, pid=23020, class=TkTopLevel, title=语音输入延迟测试（独立输入框）"
+    },
+    {
+      "name": "audio_injection_start",
+      "t_ms": 2508.3,
+      "detail": ""
+    },
+    {
+      "name": "last_speech_sound_estimated",
+      "t_ms": 6130.3,
+      "detail": "last voiced WAV chunk plus reported playback latency"
+    },
+    {
+      "name": "audio_injection_end",
+      "t_ms": 6208.6,
+      "detail": ""
+    },
+    {
+      "name": "hotkey_released",
+      "t_ms": 6311.7,
+      "detail": ""
+    },
+    {
+      "name": "foreground_after_release",
+      "t_ms": 6311.9,
+      "detail": "hwnd=4658228, pid=23020, class=TkTopLevel, title=语音输入延迟测试（独立输入框）"
+    }
+  ],
+  "new_windows": {},
+  "final_text": ""
+}

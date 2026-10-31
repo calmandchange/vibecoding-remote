@@ -1,0 +1,17 @@
+__pycache__/
+.venv/
+.venv-asr/
+*.pyc
+.gradle/
+**/build/
+.idea/
+local.properties
+*.iml
+pc/logs/
+pc/vendor/
+pc/models/
+pc/benchmark/screenshots/
+pc/benchmark/desktop.png
+pc/benchmark/*.png
+pc/benchmark/*.log
+pc/benchmark/*events.jsonl

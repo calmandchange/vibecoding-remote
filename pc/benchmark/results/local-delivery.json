@@ -1,0 +1,9 @@
+{
+  "model_load_ms": 5834.1,
+  "speech_end_seconds": 3.6,
+  "recognized": "今天我们测试语音输入的响应速度",
+  "decode_after_release_ms": 52.7,
+  "release_to_injection_ms": 62.7,
+  "speech_end_to_injection_ms": 192.5,
+  "input_box_text": "今天我们测试语音输入的响应速度"
+}

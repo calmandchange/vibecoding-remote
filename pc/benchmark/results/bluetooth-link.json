@@ -1,0 +1,115 @@
+{
+  "clock_calibration_before": {
+    "offset_ns": -557968551,
+    "rtt_ms": 18.8518
+  },
+  "clock_calibration_after": {
+    "offset_ns": -559175012,
+    "rtt_ms": 21.968
+  },
+  "calibration_uncertainty_ms": 11.0,
+  "phone_events_count": 10,
+  "pc_events_count": 10,
+  "runs": [
+    {
+      "log_epoch_ns": 1791575417803000064,
+      "phone_hotkey_ms": 3,
+      "phone_recording_ms": 15,
+      "phone_first_audio_ms": 95,
+      "pc_hotkey_ns": 1791575417213337900,
+      "pc_first_audio_after_hotkey_ms": 54,
+      "estimated_phone_down_to_pc_hotkey_ms": 63.9,
+      "estimated_bluetooth_and_windows_hotkey_ms": 60.9
+    },
+    {
+      "log_epoch_ns": 1791575420207000064,
+      "phone_hotkey_ms": 2,
+      "phone_recording_ms": 14,
+      "phone_first_audio_ms": 94,
+      "pc_hotkey_ns": 1791575419571424200,
+      "pc_first_audio_after_hotkey_ms": 91,
+      "estimated_phone_down_to_pc_hotkey_ms": 17.0,
+      "estimated_bluetooth_and_windows_hotkey_ms": 15.0
+    },
+    {
+      "log_epoch_ns": 1791575422569999872,
+      "phone_hotkey_ms": 3,
+      "phone_recording_ms": 16,
+      "phone_first_audio_ms": 99,
+      "pc_hotkey_ns": 1791575421930620000,
+      "pc_first_audio_after_hotkey_ms": 95,
+      "estimated_phone_down_to_pc_hotkey_ms": 18.2,
+      "estimated_bluetooth_and_windows_hotkey_ms": 15.2
+    },
+    {
+      "log_epoch_ns": 1791575424901999872,
+      "phone_hotkey_ms": 3,
+      "phone_recording_ms": 8,
+      "phone_first_audio_ms": 84,
+      "pc_hotkey_ns": 1791575424276733800,
+      "pc_first_audio_after_hotkey_ms": 80,
+      "estimated_phone_down_to_pc_hotkey_ms": 17.3,
+      "estimated_bluetooth_and_windows_hotkey_ms": 14.3
+    },
+    {
+      "log_epoch_ns": 1791575427259000064,
+      "phone_hotkey_ms": 3,
+      "phone_recording_ms": 11,
+      "phone_first_audio_ms": 83,
+      "pc_hotkey_ns": 1791575426635576300,
+      "pc_first_audio_after_hotkey_ms": 79,
+      "estimated_phone_down_to_pc_hotkey_ms": 18.1,
+      "estimated_bluetooth_and_windows_hotkey_ms": 15.1
+    },
+    {
+      "log_epoch_ns": 1791575429658999808,
+      "phone_hotkey_ms": 4,
+      "phone_recording_ms": 15,
+      "phone_first_audio_ms": 93,
+      "pc_hotkey_ns": 1791575429026256300,
+      "pc_first_audio_after_hotkey_ms": 89,
+      "estimated_phone_down_to_pc_hotkey_ms": 18.8,
+      "estimated_bluetooth_and_windows_hotkey_ms": 14.8
+    },
+    {
+      "log_epoch_ns": 1791575432065999872,
+      "phone_hotkey_ms": 2,
+      "phone_recording_ms": 14,
+      "phone_first_audio_ms": 86,
+      "pc_hotkey_ns": 1791575431439691700,
+      "pc_first_audio_after_hotkey_ms": 82,
+      "estimated_phone_down_to_pc_hotkey_ms": 18.3,
+      "estimated_bluetooth_and_windows_hotkey_ms": 16.3
+    },
+    {
+      "log_epoch_ns": 1791575434444000000,
+      "phone_hotkey_ms": 3,
+      "phone_recording_ms": 12,
+      "phone_first_audio_ms": 92,
+      "pc_hotkey_ns": 1791575433812430200,
+      "pc_first_audio_after_hotkey_ms": 94,
+      "estimated_phone_down_to_pc_hotkey_ms": 19.0,
+      "estimated_bluetooth_and_windows_hotkey_ms": 16.0
+    },
+    {
+      "log_epoch_ns": 1791575436772999936,
+      "phone_hotkey_ms": 2,
+      "phone_recording_ms": 11,
+      "phone_first_audio_ms": 86,
+      "pc_hotkey_ns": 1791575436163872700,
+      "pc_first_audio_after_hotkey_ms": 64,
+      "estimated_phone_down_to_pc_hotkey_ms": 35.4,
+      "estimated_bluetooth_and_windows_hotkey_ms": 33.4
+    },
+    {
+      "log_epoch_ns": 1791575439211000064,
+      "phone_hotkey_ms": 2,
+      "phone_recording_ms": 21,
+      "phone_first_audio_ms": 98,
+      "pc_hotkey_ns": 1791575438587408500,
+      "pc_first_audio_after_hotkey_ms": 79,
+      "estimated_phone_down_to_pc_hotkey_ms": 33.0,
+      "estimated_bluetooth_and_windows_hotkey_ms": 31.0
+    }
+  ]
+}

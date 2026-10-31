@@ -1,0 +1,9 @@
+{"name":"target_activated","t_ns":1791574489480000000,"detail":""}
+{"name":"target_ready","t_ns":1791574489644000000,"detail":"hwnd=3675808"}
+{"name":"injection_process_started","t_ns":1791574491190000000,"detail":"pid=47624"}
+{"name":"visual_voice_indicator","t_ns":1791574493283000000,"detail":"elapsed_ms=539 green_pixels=156"}
+{"name":"visual_first_text","t_ns":1791574494063000000,"detail":"elapsed_ms=1310 dark_pixels=82"}
+{"name":"injection_process_exited","t_ns":1791574496688000000,"detail":"code=0"}
+{"name":"text_changed","t_ns":1791574497539000000,"detail":"今天我们测试语音输入的响应速度"}
+{"name":"target_deactivated","t_ns":1791574501704000000,"detail":""}
+{"name":"target_closed","t_ns":1791574501765000000,"detail":""}

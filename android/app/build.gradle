@@ -1,0 +1,21 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'dev.local.phonevoiceremote'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'dev.local.phonevoiceremote'
+        minSdk 26
+        targetSdk 35
+        versionCode 10
+        versionName '0.7.1'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
